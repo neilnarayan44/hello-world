@@ -1,0 +1,6 @@
+# Configuration file that tells git to ignore certain file types
+__pycache__/
+*.pyc
+*~
+*.py[cod]
+*$py.class
